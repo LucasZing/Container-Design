@@ -95,12 +95,6 @@ li a:hover{
        justify-content: center;
 }
 
-.imagen{
-        display: flex;
-        align-items: center;
-        flex-direction: column;
-}
-
 .navbar{
         display: flex;
         flex-direction: column;
