@@ -97,6 +97,6 @@ li a:hover{
 }
 
 .formulario{
-  display: flex;
-       justify-content: center;
+            display: flex;
+            justify-content: center;
 }
