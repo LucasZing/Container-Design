@@ -96,6 +96,10 @@ li a:hover{
        justify-content: center;
 }
 
+.imagen{
+        display: flex;
+        justify-content: center; 
+}
 .formulario{
             display: flex;
             justify-content: center;
