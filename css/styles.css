@@ -1,109 +1,110 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;  
-  }
-  
-  header{
-         background-color: white;
-         border: black 1px solid;
-         display: flex;
-         flex-direction: row;
-         justify-content: space-between;
-  }
-  
-  main{
-       background-color: rgb(242, 230, 212);    
-  }
-  
-  footer{
-         background-color: white;
-         border: black 1px solid;
-  }
-  
-  ul{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    width: 135%;
-    list-style: none;
-  }
-  
-  div{
-      color: black;
-  }
-  
-  h1{
-     color: red;
-     text-decoration: underline;
-     text-align: center;
-     font-size: 40px;
-     font-family: "Cuprum", serif;
-  }
-  
-  h2{
-     font-family: "Lora", serif;
-     color: black;
-  }
-  
-  h3{
-    font-size: 22px ;
-  }
-  
-  p{
-    color: black;
-    text-align: center;
-    font-size: 17px;
-    font-family: "Caveat", serif;
-    padding: 10px;
-  }
-  
-  li a{
-     color: red;
-     font-size: 13px;
-     font-family: 'Times New Roman', Times, serif;
-  }
-  li a:hover{
-           font-size: 15px;
-  }
-  
-  .logo{
-        width: 150px;
-        text-align: left;
-  }
-  
-  .redes{
-         text-align: left;
-         display: flex;
-         justify-content: space-between;
-  }
-  
-  .contacto{
-            padding: 5px;
-            display: flex;
-            flex-direction: row;
-            justify-content: center;
-            list-style: none;
-  }
-  
-  .google-maps{
-               text-align: center;
-               padding: 25px;
-  }
-  
-  .video{
-         display: flex;
-         justify-content: center;
-  }
-  
-  .imagen{
-          display: flex;
-          justify-content: center; 
-  }
-  
-  .formulario{
-              display: flex;
-              justify-content: center;
-  }
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: white;
+  border: black 1px solid;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+main {
+  background-color: rgb(242, 230, 212);
+}
+
+footer {
+  background-color: white;
+  border: black 1px solid;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 135%;
+  list-style: none;
+}
+
+div {
+  color: black;
+}
+
+h1 {
+  color: rgb(231, 18, 18);
+  text-decoration: underline;
+  text-align: center;
+  font-size: 40px;
+  font-family: "Cuprum", serif;
+}
+
+h2 {
+  font-family: "Lora", serif;
+  color: black;
+}
+
+h3 {
+  font-size: 22px;
+}
+
+p {
+  color: black;
+  text-align: center;
+  font-size: 17px;
+  font-family: "Caveat", serif;
+  padding: 10px;
+}
+
+li a {
+  color: rgb(231, 18, 18);
+  font-size: 13px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+li a:hover {
+  font-size: 15px;
+}
+
+.logo {
+  width: 150px;
+  text-align: left;
+}
+
+.redes {
+  text-align: left;
+  display: flex;
+  justify-content: space-between;
+}
+
+.contacto {
+  padding: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  list-style: none;
+}
+
+.google-maps {
+  text-align: center;
+  padding: 25px;
+}
+
+.video {
+  display: flex;
+  justify-content: center;
+}
+
+.imagen {
+  display: flex;
+  justify-content: center;
+}
+
+.formulario {
+  display: flex;
+  justify-content: center;
+}
 
 /*# sourceMappingURL=styles.css.map */
