@@ -92,17 +92,7 @@ li a:hover {
   padding: 25px;
 }
 
-.video {
-  display: flex;
-  justify-content: center;
-}
-
-.imagen {
-  display: flex;
-  justify-content: center;
-}
-
-.formulario {
+.video, .formulario, .imagen {
   display: flex;
   justify-content: center;
 }

@@ -97,11 +97,9 @@
   }
   
   .imagen{
-          display: flex;
-          justify-content: center; 
+          @extend .video; 
   }
   
   .formulario{
-              display: flex;
-              justify-content: center;
+              @extend .video;
   }
