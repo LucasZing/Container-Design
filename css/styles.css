@@ -13,7 +13,8 @@ header {
 }
 
 main {
-      background-color: rgb(242, 230, 212);
+      background-color: rgba(236, 210, 208, 0.575);
+      border: black 1px solid;
 }
 
 footer {
