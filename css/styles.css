@@ -109,4 +109,17 @@ li a:hover {
                              row-gap: 10px;
                            }   
 }
+
+.grid-index{
+            display: grid;
+            grid-template-rows: 1fr 1fr;
+            row-gap: 10px;
+}
+@media (min-width: 1190px) {
+                           .grid-index{
+                                       display: grid;
+                                       grid-template-columns: 1fr 1fr;
+                                       row-gap: 10px;
+                           }
+}
 /*# sourceMappingURL=styles.css.map */
